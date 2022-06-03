@@ -1,6 +1,6 @@
 . 👋 Hi, I’m @Macedo
 
-. 🔭 Atualmente estou trabalhando na (https://www.plataformainternacional.com.br/)
+. 🔭 Atualmente estou trabalhando na https://www.plataformainternacional.com.br
 
 . 📫 How to reach me  email:  matheusmacedo643@gmail.com (11) 998338554
 
