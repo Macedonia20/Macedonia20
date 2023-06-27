@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
     <p>
         <font style="vertical-align: inherit;">
             <font style="vertical-align: inherit;">
-                @Plataforma.
+                @Desosp.
             </font>
         </font>
     </p>
